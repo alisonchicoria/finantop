@@ -1,1 +1,1 @@
-web: gunicorn webapp.wsgi --log-file -
+web: gunicorn finantop.wsgi --log-file -
