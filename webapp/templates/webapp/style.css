@@ -1,0 +1,72 @@
+
+
+/* Top color layot */
+
+#top {
+	background-color: #ffe6e6;
+	width: 100%;
+	height: 99px;
+	margin: auto;
+	border: 1px solid white;
+	float: center;
+}
+
+/* Logo image centered */
+
+img {
+	width: 10%;
+ 	 margin: 0;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+/* Left Panel */
+
+#left {
+	background-color: #ffe6e6;
+	width: 150px;
+	height: 4000px;
+	border: 1px;
+	float:left;
+	border: 1px solid white;
+}
+
+/* RightPage */
+
+#right {
+	background-color: #f2f2f2;
+	width: 4000px;
+	height: 4000px;
+	border: 1px;
+	
+	border: 1px solid white;
+
+
+}
+
+/* Logo name centered */
+h4 {
+	left: 44%;
+	position: absolute;
+	top: 9%;
+	height: 50%
+
+
+}
+
+/* Left Buttons color/center */
+p {
+	background-color: #ffcccc;
+	text-align: center;
+
+}
+
+/* Left Buttons Mouserover */
+p:hover {
+	background-color: #ff1a1a;
+	text-align: center;
+
+}
